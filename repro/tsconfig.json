@@ -1,0 +1,9 @@
+{
+  "exclude": ["src"],
+  "references": [{ "path": "./tsconfig.build.json" }],
+  "compilerOptions": {
+    "lib": ["es5"],
+    "module": "preserve",
+    "noEmit": true
+  }
+}

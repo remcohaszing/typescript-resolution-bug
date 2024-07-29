@@ -1,0 +1,10 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "composite": true,
+    "lib": ["es5"],
+    "module": "nodenext",
+    "outDir": "dist",
+    "rootDir": "src"
+  }
+}
